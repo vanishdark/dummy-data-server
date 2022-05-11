@@ -420,9 +420,9 @@
             "value":"CERTIFICATE"
          },
          "settings":{
-            "input_type":"text",
+            "input_type":"select",
             "options":[
-               
+               "value_1", "value_2"
             ],
             "placeholder":"Options Example",
             "is_required":0

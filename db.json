@@ -27,8 +27,8 @@
          "address_1":"54 Mill Road",
          "postcode":"CT5 8TB",
          "coords":{
-            "lat":null,
-            "lng":null
+            "lat":"37.824053",
+            "lng":"-122.3785461"
          },
          "status": {
             "id": 1,

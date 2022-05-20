@@ -230,6 +230,10 @@
             "lat":"56.484488",
             "long":"-2.887336"
          },
+         "status": {
+            "id": 1,
+            "value": "In Progress"
+         },
          "certificate_type":{
             "id":1,
             "type":"LGSR"
@@ -243,8 +247,12 @@
          "address_1":"54 Mill Road",
          "postcode":"CT5 8TB",
          "coords":{
-            "lat":null,
-            "lng":null
+            "lat":"37.824053",
+            "lng":"-122.3785461"
+         },
+         "status": {
+            "id": 1,
+            "value": "In Progress"
          },
          "certificate_type":{
             "id":1,
@@ -262,6 +270,10 @@
             "lat":"53.685434",
             "lng":"-1.501192"
          },
+         "status": {
+            "id": 1,
+            "value": "In Progress"
+         },
          "certificate_type":{
             "id":1,
             "type":"LGSR"
@@ -277,6 +289,10 @@
          "coords":{
             "lat":null,
             "lng":null
+         },
+         "status": {
+            "id": 1,
+            "value": "In Progress"
          },
          "certificate_type":{
             "id":1,
@@ -294,6 +310,10 @@
             "lat":null,
             "lng":null
          },
+         "status": {
+            "id": 1,
+            "value": "In Progress"
+         },
          "certificate_type":{
             "id":1,
             "type":"LGSR"
@@ -309,6 +329,10 @@
          "coords":{
             "lat":"53.199060",
             "lng":"-0.482140"
+         },
+         "status": {
+            "id": 1,
+            "value": "In Progress"
          },
          "certificate_type":{
             "id":1,

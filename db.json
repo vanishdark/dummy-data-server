@@ -11,8 +11,8 @@
             "long":"-2.887336"
          },
          "status": {
-            "id": 1,
-            "value": "In Progress"
+            "id": 2,
+            "value": "Sent to Approval"
          },
          "certificate_type":{
             "id":1,
@@ -31,8 +31,8 @@
             "lng":"-122.3785461"
          },
          "status": {
-            "id": 1,
-            "value": "In Progress"
+            "id": 2,
+            "value": "Sent to Approval"
          },
          "certificate_type":{
             "id":1,
@@ -51,8 +51,8 @@
             "lng":"-1.501192"
          },
          "status": {
-            "id": 1,
-            "value": "In Progress"
+            "id": 2,
+            "value": "Sent to Approval"
          },
          "certificate_type":{
             "id":1,
@@ -71,8 +71,8 @@
             "lng":null
          },
          "status": {
-            "id": 1,
-            "value": "In Progress"
+            "id": 2,
+            "value": "Sent to Approval"
          },
          "certificate_type":{
             "id":1,

@@ -87,8 +87,8 @@
          "address_1":"35 Osborne Road",
          "postcode":"GL8 7SU",
          "coords":{
-            "lat":null,
-            "lng":null
+            "lat":"51.492335",
+            "lng":"0.070501"
          },
          "status": {
             "id": 1,

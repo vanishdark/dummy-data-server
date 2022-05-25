@@ -71,8 +71,8 @@
             "lng":null
          },
          "status": {
-            "id": 4,
-            "value": "Closed"
+            "id": 2,
+            "value": "Sent to Approval"
          },
          "certificate_type":{
             "id":1,
@@ -91,8 +91,8 @@
             "lng":"0.070501"
          },
          "status": {
-            "id": 1,
-            "value": "In Progress"
+            "id": 4,
+            "value": "Closed"
          },
          "certificate_type":{
             "id":1,

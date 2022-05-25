@@ -11,8 +11,8 @@
             "long":"-2.887336"
          },
          "status": {
-            "id": 2,
-            "value": "Sent to Approval"
+            "id": 1,
+            "value": "Open"
          },
          "certificate_type":{
             "id":1,
@@ -51,8 +51,8 @@
             "lng":"-1.501192"
          },
          "status": {
-            "id": 2,
-            "value": "Sent to Approval"
+            "id": 3,
+            "value": "Rejected"
          },
          "certificate_type":{
             "id":1,
@@ -71,8 +71,8 @@
             "lng":null
          },
          "status": {
-            "id": 2,
-            "value": "Sent to Approval"
+            "id": 4,
+            "value": "Closed"
          },
          "certificate_type":{
             "id":1,

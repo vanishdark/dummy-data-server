@@ -7,8 +7,8 @@
          "address_1":"22 The Grove",
          "postcode":"DD41 9WU",
          "coords":{
-            "lat":"56.484488",
-            "long":"-2.887336"
+            "lat": 56.484488,
+            "long": -2.887336
          },
          "status": {
             "id": 1,
@@ -27,8 +27,8 @@
          "address_1":"54 Mill Road",
          "postcode":"CT5 8TB",
          "coords":{
-            "lat":"37.824053",
-            "lng":"-122.3785461"
+            "lat": 37.824053,
+            "lng": -122.3785461
          },
          "status": {
             "id": 2,
@@ -47,8 +47,8 @@
          "address_1":"18 Rishworth St",
          "postcode":"WF1 3BY",
          "coords":{
-            "lat":"53.685434",
-            "lng":"-1.501192"
+            "lat": 53.685434,
+            "lng": -1.501192
          },
          "status": {
             "id": 3,
@@ -87,8 +87,8 @@
          "address_1":"35 Osborne Road",
          "postcode":"GL8 7SU",
          "coords":{
-            "lat":"51.492335",
-            "lng":"0.070501"
+            "lat":51.492335,
+            "lng":0.070501
          },
          "status": {
             "id": 4,
@@ -107,8 +107,8 @@
          "address_1":"78 Ross Road",
          "postcode":"LN4 1TG",
          "coords":{
-            "lat":"53.199060",
-            "lng":"-0.482140"
+            "lat":53.199060,
+            "lng":-0.482140
          },
          "status": {
             "id": 4,
@@ -129,8 +129,8 @@
          "address_1":"22 The Grove",
          "postcode":"DD41 9WU",
          "coords":{
-            "lat":"56.484488",
-            "long":"-2.887336"
+            "lat":56.484488,
+            "long":-2.887336
          },
          "certificate_type":{
             "id":1,
@@ -161,8 +161,8 @@
          "address_1":"18 Rishworth St",
          "postcode":"WF1 3BY",
          "coords":{
-            "lat":"53.685434",
-            "lng":"-1.501192"
+            "lat":53.685434,
+            "lng":-1.501192
          },
          "certificate_type":{
             "id":1,
@@ -209,8 +209,8 @@
          "address_1":"78 Ross Road",
          "postcode":"LN4 1TG",
          "coords":{
-            "lat":"53.199060",
-            "lng":"-0.482140"
+            "lat":53.199060,
+            "lng":-0.482140
          },
          "certificate_type":{
             "id":1,
@@ -227,8 +227,8 @@
          "address_1":"22 The Grove",
          "postcode":"DD41 9WU",
          "coords":{
-            "lat":"56.484488",
-            "long":"-2.887336"
+            "lat":56.484488,
+            "long":-2.887336
          },
          "status": {
             "id": 1,
@@ -247,8 +247,8 @@
          "address_1":"54 Mill Road",
          "postcode":"CT5 8TB",
          "coords":{
-            "lat":"37.824053",
-            "lng":"-122.3785461"
+            "lat":37.824053,
+            "lng":-122.3785461
          },
          "status": {
             "id": 1,
@@ -267,8 +267,8 @@
          "address_1":"18 Rishworth St",
          "postcode":"WF1 3BY",
          "coords":{
-            "lat":"53.685434",
-            "lng":"-1.501192"
+            "lat":53.685434,
+            "lng":-1.501192
          },
          "status": {
             "id": 1,
@@ -327,8 +327,8 @@
          "address_1":"78 Ross Road",
          "postcode":"LN4 1TG",
          "coords":{
-            "lat":"53.199060",
-            "lng":"-0.482140"
+            "lat":53.199060,
+            "lng":-0.482140
          },
          "status": {
             "id": 1,

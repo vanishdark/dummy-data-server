@@ -232,13 +232,16 @@
          },
          "status": {
             "id": 1,
-            "value": "In Progress"
+            "value": "Open"
          },
          "certificate_type":{
             "id":1,
             "type":"LGSR"
          },
-         "date":"12 May 2022"
+         "date":"12 May 2022",
+         "description": "This is a test description field",
+         "appointment_time": null,
+         "created_by": "Joao Tomaz"
       },
       {
          "id":2,
@@ -252,13 +255,16 @@
          },
          "status": {
             "id": 1,
-            "value": "In Progress"
+            "value": "Open"
          },
          "certificate_type":{
             "id":1,
             "type":"LGSR"
          },
-         "date":"12 May 2002"
+         "date":"12 May 2002",
+         "description": "This is a test description field",
+         "appointment_time": null,
+         "created_by": "Joao Tomaz"
       },
       {
          "id":3,
@@ -272,13 +278,16 @@
          },
          "status": {
             "id": 1,
-            "value": "In Progress"
+            "value": "Open"
          },
          "certificate_type":{
             "id":1,
             "type":"LGSR"
          },
-         "date":"12 May 2002"
+         "date":"12 May 2002",
+         "description": "This is a test description field",
+         "appointment_time":"12 May 2002",
+         "created_by": "Joao Tomaz"
       },
       {
          "id":4,
@@ -292,13 +301,16 @@
          },
          "status": {
             "id": 1,
-            "value": "In Progress"
+            "value": "Open"
          },
          "certificate_type":{
             "id":1,
             "type":"LGSR"
          },
-         "date":"12 May 2002"
+         "date":"12 May 2002",
+         "description": "This is a test description field",
+         "appointment_time":"12 May 2002",
+         "created_by": "Joao Tomaz"
       },
       {
          "id":5,
@@ -312,13 +324,16 @@
          },
          "status": {
             "id": 1,
-            "value": "In Progress"
+            "value": "Open"
          },
          "certificate_type":{
             "id":1,
             "type":"LGSR"
          },
-         "date":"12 May 2002"
+         "date":"12 May 2002",
+         "description": "This is a test description field",
+         "appointment_time":"12 May 2002",
+         "created_by": "Joao Tomaz"
       },
       {
          "id":6,
@@ -332,13 +347,16 @@
          },
          "status": {
             "id": 1,
-            "value": "In Progress"
+            "value": "Open"
          },
          "certificate_type":{
             "id":1,
             "type":"LGSR"
          },
-         "date":"12 May 2002"
+         "date":"12 May 2002",
+         "description": "This is a test description field",
+         "appointment_time":"12 May 2002",
+         "created_by": "Joao Tomaz"
       }
    ],
    "qualifications":[

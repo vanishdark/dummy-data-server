@@ -364,14 +364,14 @@
          "id": 1,
          "certificate_name":"Gas Certificate",
          "certificate_id_number": "GAS_1234",
-         "document_url": null,
+         "document_url": "https://www.plumbingforce.co.uk/wp-content/uploads/2019/11/blog_gas_safe_certificate.jpg",
          "expiry_date":"26th May 2023"
       },
       {
          "id": 2,
          "certificate_name":"Electricians Certificate",
          "certificate_id_number": "ELECT_1234",
-         "document_url": null,
+         "document_url": "https://www.princexml.com/samples/flyer/flyer.pdf",
          "expiry_date":"26th May 2023"
       },
       {

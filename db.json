@@ -12,7 +12,7 @@
          },
          "status": {
             "id": 1,
-            "value": "Open"
+            "value": "In Progress"
          },
          "certificate_type":{
             "id":1,
@@ -232,7 +232,7 @@
          },
          "status": {
             "id": 1,
-            "value": "Open"
+            "value": "In Progress"
          },
          "certificate_type":{
             "id":1,
@@ -255,7 +255,7 @@
          },
          "status": {
             "id": 1,
-            "value": "Open"
+            "value": "In Progress"
          },
          "certificate_type":{
             "id":1,
@@ -278,7 +278,7 @@
          },
          "status": {
             "id": 1,
-            "value": "Open"
+            "value": "In Progress"
          },
          "certificate_type":{
             "id":1,
@@ -301,7 +301,7 @@
          },
          "status": {
             "id": 1,
-            "value": "Open"
+            "value": "In Progress"
          },
          "certificate_type":{
             "id":1,
@@ -324,7 +324,7 @@
          },
          "status": {
             "id": 1,
-            "value": "Open"
+            "value": "In Progress"
          },
          "certificate_type":{
             "id":1,
@@ -347,7 +347,7 @@
          },
          "status": {
             "id": 1,
-            "value": "Open"
+            "value": "In Progress"
          },
          "certificate_type":{
             "id":1,

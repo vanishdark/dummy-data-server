@@ -18,7 +18,8 @@
             "id":1,
             "type":"LGSR"
          },
-         "date":"12 May 2022"
+         "date":"12 May 2022",
+         "fields": [1,2,3,4]
       },
       {
          "id":2,
@@ -38,7 +39,8 @@
             "id":1,
             "type":"LGSR"
          },
-         "date":"12 May 2002"
+         "date":"12 May 2002",
+         "fields": [1,2]
       },
       {
          "id":3,
@@ -58,7 +60,8 @@
             "id":1,
             "type":"LGSR"
          },
-         "date":"12 May 2002"
+         "date":"12 May 2002",
+         "fields": [1,2,3,4]
       },
       {
          "id":4,
@@ -78,7 +81,8 @@
             "id":1,
             "type":"LGSR"
          },
-         "date":"12 May 2002"
+         "date":"12 May 2002",
+         "fields": [1,2,3]
       },
       {
          "id":5,
@@ -98,7 +102,8 @@
             "id":1,
             "type":"LGSR"
          },
-         "date":"12 May 2002"
+         "date":"12 May 2002",
+         "fields": [1,2,3,4]
       },
       {
          "id":6,
@@ -118,7 +123,8 @@
             "id":1,
             "type":"LGSR"
          },
-         "date":"12 May 2002"
+         "date":"12 May 2002",
+         "fields": [1,2,3,4]
       }
    ],
    "documentsMap":[
@@ -241,7 +247,8 @@
          "date":"12 May 2022",
          "description": "This is a test description field",
          "appointment_time": null,
-         "created_by": "Joao Tomaz"
+         "created_by": "Joao Tomaz",
+         "fields": [1,2,3,4]
       },
       {
          "id":2,
@@ -264,7 +271,8 @@
          "date":"12 May 2002",
          "description": "This is a test description field",
          "appointment_time": null,
-         "created_by": "Joao Tomaz"
+         "created_by": "Joao Tomaz",
+         "fields": [1,2,3,4]
       },
       {
          "id":3,
@@ -287,7 +295,8 @@
          "date":"12 May 2002",
          "description": "This is a test description field",
          "appointment_time":"12 May 2002",
-         "created_by": "Joao Tomaz"
+         "created_by": "Joao Tomaz",
+         "fields": [1,2,3,4]
       },
       {
          "id":4,
@@ -310,7 +319,8 @@
          "date":"12 May 2002",
          "description": "This is a test description field",
          "appointment_time":"12 May 2002",
-         "created_by": "Joao Tomaz"
+         "created_by": "Joao Tomaz",
+         "fields": [1,2,3,4]
       },
       {
          "id":5,
@@ -333,7 +343,8 @@
          "date":"12 May 2002",
          "description": "This is a test description field",
          "appointment_time":"12 May 2002",
-         "created_by": "Joao Tomaz"
+         "created_by": "Joao Tomaz",
+         "fields": [1,2,3,4]
       },
       {
          "id":6,
@@ -356,7 +367,8 @@
          "date":"12 May 2002",
          "description": "This is a test description field",
          "appointment_time":"12 May 2002",
-         "created_by": "Joao Tomaz"
+         "created_by": "Joao Tomaz",
+         "fields": [1,2,3,4]
       }
    ],
    "qualifications":[
